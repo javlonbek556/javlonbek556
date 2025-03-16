@@ -1,16 +1,37 @@
-## Hi there 👋
+# 🚀 Welcome to My GitHub!
 
-<!--
-**javlonbek556/javlonbek556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there! I'm a PHP/Laravel Developer 💻
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack:
+- **Backend:** PHP, Laravel
+- **Database:** MySQL
+- **Frontend:** HTML, CSS, JavaScript
+- **Version Control:** Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📌 About Me:
+Passionate developer who loves building efficient, scalable, and user-friendly web applications. Always exploring new technologies and improving coding skills.
+
+---
+
+## 🔥 Featured Projects:
+- 🛍 **E-Commerce Platform** - A Laravel-based online store with advanced cart & checkout features.
+- 🍽 **Food Ordering System** - PHP-powered web app for restaurants.
+- 👟 **Sneaker Store** - A responsive online shop with MySQL integration.
+
+Check out my repositories to see more! 😊
+
+---
+
+## 📫 Let's Connect!
+
+- 📩 Email: javlonavazov318@gmail.com
+- 🐦 facebook: [https://www.facebook.com/profile.php?id=61559163308938&locale=ru_RU](#)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+🎯 Keep coding, keep growing! 🚀
+
