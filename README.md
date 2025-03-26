@@ -5,7 +5,7 @@
 ### 🛠 Tech Stack:
 - **Backend:** PHP, Laravel
 - **Database:** MySQL
-- **Frontend:** HTML, CSS, JavaScript
+- **Frontend:** HTML, 
 - **Version Control:** Git & GitHub
 
 ---
